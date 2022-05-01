@@ -1,1 +1,1 @@
-# Railway-Ticket-Booking-System-DBMS-mini-project
+# Railway-Reservation-System-DBMS-mini-project
